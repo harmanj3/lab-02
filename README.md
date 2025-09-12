@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Haemanjot Kaur Dhaliwal
+- **CCID:** 1782350
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/30962326/how-to-add-a-button-in-android-studio
 
 ## Verbal Collaboration
 
